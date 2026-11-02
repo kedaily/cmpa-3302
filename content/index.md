@@ -1,9 +1,9 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Video Game Consoles Knowledge Base Docs Websites
 ---
 ## The index page
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website. You can use this site to find the resources that I used to build my website about video game consoles.
 
 ## Editing pages
 
