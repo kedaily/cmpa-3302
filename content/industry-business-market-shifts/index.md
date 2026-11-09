@@ -1,4 +1,4 @@
 ---
 title: Industry Business & Market Shifts
 ---
-Return to the [[content/index]]
+Return to the [[content/index|home]]
