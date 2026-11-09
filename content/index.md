@@ -42,9 +42,9 @@ You can add more pages to your website by adding more Markdown files to the `con
 
 ##Main Categories
 
--[[origins-the-early-era/index|Orgins & The Early Era (pre-1980s)]]
+-[[origins-the-early-era/index|Origins & The Early Era (pre-1980s)]]
 -[[console-generations-hardware-evolution/index|Console Generations & Hardware Evolution]]
--[[content/milestone-games-genre-evolution/index|Milestone Games & Genre Evolution]]
+-[[milestone-games-genre-evolution/index|Milestone Games & Genre Evolution]]
 -[[industry-business-market-shifts/index|Industry, Business & Market Shifts]]
 -[[technology-art-game-design/index|Technology, Art & Game Design]]
 -[[culture-fandom-global-impact/index|Culture, Fandom & Global Impact]]
