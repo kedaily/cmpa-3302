@@ -40,3 +40,13 @@ You can use any text editor capable of opening and editing Markdown files.
 
 You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[content/Example doc 02]] to learn more.
 
+##Main Catorgies
+
+-[[content/origins-the-early-era/index|Orgins & The Early Era (pre-1980s)]]
+-[[content/console-generations-hardware-evolution/index|Console Generations & Hardware Evolution]]
+-[[content/milestone-games-genre-evolution/index|Milestone Games & Genre Evolution]]
+-[[content/industry-business-market-shifts/index|Industry, Business & Market Shifts]]
+-[[content/technology-art-game-design/index|Technology, Art & Game Design]]
+-[[content/culture-fandom-global-impact/index|Culture, Fandom & Global Impact]]
+-[[content/preservation-archives-lost-media/index|Preservation, Archives & Lost Media]]
+
