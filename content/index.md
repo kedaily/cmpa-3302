@@ -42,11 +42,11 @@ You can add more pages to your website by adding more Markdown files to the `con
 
 ##Main Categories
 
--[[content/origins-the-early-era/index|Orgins & The Early Era (pre-1980s)]]
--[[content/console-generations-hardware-evolution/index|Console Generations & Hardware Evolution]]
+-[[origins-the-early-era/index|Orgins & The Early Era (pre-1980s)]]
+-[[console-generations-hardware-evolution/index|Console Generations & Hardware Evolution]]
 -[[content/milestone-games-genre-evolution/index|Milestone Games & Genre Evolution]]
--[[content/industry-business-market-shifts/index|Industry, Business & Market Shifts]]
--[[content/technology-art-game-design/index|Technology, Art & Game Design]]
--[[content/culture-fandom-global-impact/index|Culture, Fandom & Global Impact]]
--[[content/preservation-archives-lost-media/index|Preservation, Archives & Lost Media]]
+-[[industry-business-market-shifts/index|Industry, Business & Market Shifts]]
+-[[technology-art-game-design/index|Technology, Art & Game Design]]
+-[[culture-fandom-global-impact/index|Culture, Fandom & Global Impact]]
+-[[preservation-archives-lost-media/index|Preservation, Archives & Lost Media]]
 
