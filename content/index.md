@@ -40,7 +40,7 @@ You can use any text editor capable of opening and editing Markdown files.
 
 You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[content/Example doc 02]] to learn more.
 
-##Main Catorgies
+##Main Categories
 
 -[[content/origins-the-early-era/index|Orgins & The Early Era (pre-1980s)]]
 -[[content/console-generations-hardware-evolution/index|Console Generations & Hardware Evolution]]
