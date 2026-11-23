@@ -38,6 +38,6 @@ neoteo.com/en/the-history-of-atari
 Human Kinetics. (2023). The birth and development of sports video games from the 1950s to the early 1980s. *Sport History Review*, 54(2).
 https://journals.humankinetics.com/view/journals/shr/54/2/article-p200.xml
 
-Vintage Is The New Old. (2023, October 7). *Did Atari make the game Pong vs Magnavox?*
-https://www.vintageisthenewold.com/faq/did-atari-make-the-game-pong-vs-magnavox
+The Case of the Video Game Lawsuit Racket. (2024, October 7). *How a patent infringement lawsuit between Atari and Magnavox (over_ Pong_) led to the era of patent trolls* 
+https://www.lexology.com/library/detail.aspx?g=97305af8-1f69-4f7f-a0cf-8e92dc05a0fb
 
