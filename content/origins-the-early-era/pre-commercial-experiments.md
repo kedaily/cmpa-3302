@@ -33,11 +33,11 @@ Games existed only on expensive research computers or custom hardware.
 No commercial distribution or business model.
 Primary audiences were scientists, students, and laboratory visitors.
 
-Focus was on proving technical concepts rather that entertainment value. These experiments established that real-time interactive graphics were possible and directly inspired the commercial pioneers who followed.
+Focus was on proving technical concepts rather than entertainment value. These experiments established that real-time interactive graphics were possible and directly inspired the commercial pioneers who followed.
 
 ## Related
 
-[[1971-1972-the-brakethrough-year|1971-1972: The Breakthrough Year]]
+[[1971-1972-the-breakthrough-year|1971-1972: The Breakthrough Year]]
 [[foundational-innovators|Foundational Innovators]]
 [[../technology-art-game-design/index|Technology, Art & Game Design]]
 

@@ -11,6 +11,10 @@ Nolan Bushnell and Ted Dabney adapted *Spacewars!* into a coin-operated cabinet 
 
 ## Magnavox Odyssey (1972)
 
+![[ralph-baer.jpg]]
+Ralph Baer with a *Odyssey* box
+
+
 Ralph Baer's multi-year project at Sanders Associates produced the "Brown Box" prototype. Magnavox licensed the technology and released the Odyssey in 1972 - this was the first home video game console. 
 
 *Key features:*
@@ -23,11 +27,11 @@ Ralph Baer's multi-year project at Sanders Associates produced the "Brown Box" p
 
 The year after *Computer Space* was released Bushnell and Dabney founded Atari. Engineer Allan Alcorn was asked to create a simple tennis game as a training exercise. The result was *Pong*
 
-A prototype paced in Andy Capp's Tavern in Sunnyvale, California filled its coin box so quickly that the machine stopped working. Atari immediately began manufacturing units, and *Pong* became the first video game to achieve widespread commercial success. 
+A prototype placed in Andy Capp's Tavern in Sunnyvale, California filled its coin box so quickly that the machine stopped working. Atari immediately began manufacturing units, and *Pong* became the first video game to achieve widespread commercial success. 
 
 ### The Odyssey-Pong Connection
 
-Bushnell had seen a demonstration of the Odyssey's tennis game earlier in 1972. The similarity led Magnavox to due Atari. The lawsuit settled with Atari paying royalties, confirming the strength of Baer's patents. 
+Bushnell had seen a demonstration of the Odyssey's tennis game earlier in 1972. The similarity led Magnavox to sue Atari. The lawsuit settled with Atari paying royalties, confirming the strength of Baer's patents. 
 
 ## Why 1971-1972 Matters
 

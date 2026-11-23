@@ -7,7 +7,7 @@ Before video games became a global industry, they were experiments, prototypes, 
 
 The early era ends a cartridge-based consoles and the arcade golden age begin to dominate in the late 1970s.
 
-## Explore This Catagory
+## Explore This Category
 
 | Page                                                                  | Focus                                                    |     |
 | --------------------------------------------------------------------- | -------------------------------------------------------- | --- |

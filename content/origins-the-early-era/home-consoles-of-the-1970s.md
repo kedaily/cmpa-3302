@@ -11,7 +11,7 @@ The Odyssey (1972) used built-in games and screen overlays. It sold modestly, ab
 
 ## Dedicated Consoles
 
-After *Pong*'s arcade success, many companies released single-purpose home systems that played only tennis-style games. These dedicated consoles were inexpensive and easy to yse, but they could not be expanded with new games. The market quickly became crowded with similar products. 
+After *Pong*'s arcade success, many companies released single-purpose home systems that played only tennis-style games. These dedicated consoles were inexpensive and easy to use, but they could not be expanded with new games. The market quickly became crowded with similar products. 
 
 ## The Shift to Cartridges: Atari 2600 (1977)
 
@@ -36,6 +36,6 @@ The 2600 is widely regarded as the beginning of the second generation of home co
 
 -[[1971-1972-the-breakthrough-year|1971-1972: The Breakthrough Year]]
 -[[arcade-origins|Arcade Origins]]
--[[../console-generations-hardware-evolution /index|Console Generations & Hardware Evolution]]
+-[[../console-generations-hardware-evolution/index|Console Generations & Hardware Evolution]]
 
 [[origins-the-early-era/index|← Back to Origins The Early Era]]
