@@ -35,4 +35,4 @@ The early era does not end in isolation. It feeds directly into:
 
 > The organizing system’s value comes from the connections between resources, not merely from the resources themselves.
 
-[[index|← Back to Origins The Early Era]]| [[../index|← Knowledge Base Home]]
+[[origins-the-early-era/index|← Back to Origins The Early Era]] | [[index|← Knowledge Base Home ]]

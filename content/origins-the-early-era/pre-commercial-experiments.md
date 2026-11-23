@@ -42,4 +42,4 @@ Focus was on proving technical concepts rather that entertainment value. These e
 [[../technology-art-game-design/index|Technology, Art & Game Design]]
 
 
-[[index|← Back to Origins The Early Era]]
+[[origins-the-early-era/index|← Back to Origins The Early Era]]

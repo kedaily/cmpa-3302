@@ -44,4 +44,4 @@ Commercial industry begins
 - [[1971-1972-the-breakthrough-year|1971–1972: The Breakthrough Year]]
 - [[early-era-legacy|Early Era Legacy]]
 
-[[index|← Back to Origins The Early Era]]
+[[origins-the-early-era/index|← Back to Origins The Early Era]]

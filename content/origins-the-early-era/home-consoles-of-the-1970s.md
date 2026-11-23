@@ -38,4 +38,4 @@ The 2600 is widely regarded as the beginning of the second generation of home co
 -[[arcade-origins|Arcade Origins]]
 -[[../console-generations-hardware-evolution /index|Console Generations & Hardware Evolution]]
 
-[[index|← Back to Origins The Early Era]]
+[[origins-the-early-era/index|← Back to Origins The Early Era]]

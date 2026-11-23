@@ -43,4 +43,4 @@ By the mid-to-late 1970s, arcades had become established venues. Games such as *
 - [[../milestone-games-genre-evolution/index|Milestone Games & Genre Evolution]]
 - [[../culture-fandom-global-impact/index|Culture, Fandom & Global Impact]]
 
-[[index|← Back to Origins category]]
+[[origins-the-early-era/index|← Back to Origins The Early Era]]
