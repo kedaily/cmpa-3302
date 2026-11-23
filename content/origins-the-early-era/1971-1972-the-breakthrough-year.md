@@ -11,9 +11,8 @@ Nolan Bushnell and Ted Dabney adapted *Spacewars!* into a coin-operated cabinet 
 
 ## Magnavox Odyssey (1972)
 
-![[ralph-baer.jpg]]
-Ralph Baer with a *Odyssey* box
-
+![Ralph Baer with a Magnavox Odyssey box](ralph-baer.jpg)
+*Ralph Baer with a Odyssey box*
 
 Ralph Baer's multi-year project at Sanders Associates produced the "Brown Box" prototype. Magnavox licensed the technology and released the Odyssey in 1972 - this was the first home video game console. 
 
