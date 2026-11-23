@@ -46,4 +46,4 @@ These three events together created the commercial video game industry.
 - [[arcade-origins|Arcade Origins]] 
 - [[../industry-business-market-shifts/index|Industry, Business & Market Shifts]]
 
-[[index|← Back to Origins category]]
+[[index|← Back to Origins The Early Era]]

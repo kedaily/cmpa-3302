@@ -40,4 +40,6 @@ Focus was on proving technical concepts rather that entertainment value. These e
 [[1971-1972-the-brakethrough-year|1971-1972: The Breakthrough Year]]
 [[foundational-innovators|Foundational Innovators]]
 [[../technology-art-game-design/index|Technology, Art & Game Design]]
-[[index|← Back to Origins category]]
+
+
+[[index|← Back to Origins The Early Era]]
